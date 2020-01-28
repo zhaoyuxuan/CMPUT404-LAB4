@@ -1,4 +1,4 @@
-1.
+1.https://github.com/zhaoyuxuan/CMPUT404-LAB4
 2. http://localhost:8000
 3. 404 on http://localhost:8000, "Hello, world. You're at the polls index." on http://localhost:8000/polls/
 4. Migrations are Django’s way of propagating changes you make to your models into your database schema.
