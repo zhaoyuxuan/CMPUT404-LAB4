@@ -1,0 +1,10 @@
+1.
+2. http://localhost:8000
+3. 404 on http://localhost:8000, "Hello, world. You're at the polls index." on http://localhost:8000/polls/
+4. Migrations are Django’s way of propagating changes you make to your models into your database schema.
+   We need it to make changes to our database and keep track of database changes
+5. I see all my models in django. To get custom models to appear in the Django admin page, register the model in admin.py
+6. /polls/38/ shows "You're looking at question 38." /polls/38/results shows "You're looking at the results of question 38." /polls/38/vote shows "You're voting on question 38."
+   change int to string
+7. it is hard to maintain the code afterwards
+8. To use the generic view to cut down the redundancy
