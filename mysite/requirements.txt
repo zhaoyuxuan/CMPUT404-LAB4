@@ -57,7 +57,7 @@ pytz==2019.3
 pyxdg==0.25
 pyzmq==15.2.0
 reportlab==3.3.0
-requests==2.9.1
+requests==2.20.0
 roman==2.0.0
 s2clientprotocol==3.19.1.58600.0
 scipy==0.17.0
