@@ -35,7 +35,7 @@ onboard==1.2.0
 pbr==3.1.1
 pep8==1.7.0
 pexpect==4.0.1
-Pillow==3.1.2
+Pillow==8.3.2
 portpicker==1.2.0
 protobuf==3.4.0
 psutil==3.4.2
